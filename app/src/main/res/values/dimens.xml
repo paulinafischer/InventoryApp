@@ -1,0 +1,21 @@
+<resources>
+    <dimen name="fab_margin">20dp</dimen>
+    <dimen name="padding">20dp</dimen>
+    <dimen name="padding2">10dp</dimen>
+    <dimen name="margin">10dp</dimen>
+    <dimen name="margin2">20dp</dimen>
+    <dimen name="text">16sp</dimen>
+    <dimen name="title">25sp</dimen>
+    <dimen name="h1">20sp</dimen>
+    <dimen name="h2">18sp</dimen>
+    <!-- activity_inventory -->
+    <dimen name="plus_margin">16dp</dimen>
+    <dimen name="inventory_margin">16dp</dimen>
+    <!-- list_item -->
+    <dimen name="list_item_margin">16dp</dimen>
+    <dimen name="list_item_textview_marginRight">10dp</dimen>
+    <dimen name="list_item_linearlayout_marginLeft">5dp</dimen>
+    <dimen name="layout_height">50dp</dimen>
+    <dimen name="button_height">30dp</dimen>
+    <dimen name= "paddingRight">16dp</dimen>
+</resources>
